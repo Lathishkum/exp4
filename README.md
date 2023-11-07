@@ -14,8 +14,8 @@ Latest Version Android Studio
    Step 7: Save and run the application.
 ### PROGRAM:
 ```
-DEVELOPED BY: Jagan S
-REGISTER NUMBER:212221040061
+DEVELOPED BY: Lathish kumar B
+REGISTER NUMBER:212221040087
 ```
 ### activity_main.xml
 ```
